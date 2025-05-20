@@ -1,10 +1,10 @@
-# FoundryVTT Blades in the Dark character and crew sheets
+# FoundryVTT Runners in the Shadow character and crew sheets
 
 <p align="center">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/dez384/foundryvtt-blades-in-the-dark"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dez384/foundryvtt-blades-in-the-dark"> <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/dez384/foundryvtt-blades-in-the-dark/total" /> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/dez384/foundryvtt-blades-in-the-dark?label=latest%20release" /> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Shaf074/foundryvtt-runners-in-the-shadow"> <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Shaf074/foundryvtt-runners-in-the-shadow"> <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/Shaf074/foundryvtt-runners-in-the-shadow/total" /> <img alt="GitHub Release Date" src="https://img.shields.io/github/release-date/Shaf074/foundryvtt-runners-in-the-shadow?label=latest%20release" /> 
 </p>
 <p align="center">
-<img alt="GitHub" src="https://img.shields.io/github/license/dez384/foundryvtt-blades-in-the-dark"> <a href="https://github.com/dez384/foundryvtt-blades-in-the-dark/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/dez384/foundryvtt-blades-in-the-dark"></a> <a href="https://github.com/dez384/foundryvtt-blades-in-the-dark/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/dez384/foundryvtt-blades-in-the-dark"></a> <a href="https://github.com/dez384/foundryvtt-blades-in-the-dark/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/dez384/foundryvtt-blades-in-the-dark"></a> 
+<img alt="GitHub" src="https://img.shields.io/github/license/Shaf074/foundryvtt-runners-in-the-shadow"> <a href="https://github.com/Shaf074/foundryvtt-runners-in-the-shadow/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Shaf074/foundryvtt-runners-in-the-shadow"></a> <a href="https://github.com/Shaf074/foundryvtt-runners-in-the-shadow/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Shaf074/foundryvtt-runners-in-the-shadow"></a> <a href="https://github.com/Shaf074/foundryvtt-runners-in-the-shadow/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Shaf074/foundryvtt-runners-in-the-shadow"></a> 
 </p>
 
 If you like our work - use the system, use it all, and may the shadows cover your way.
@@ -24,24 +24,24 @@ If you have questions, please ask them on the #forged-in-the-dark channel of the
 - To add Custom abilities just add a new "Foundry Item" of the corresponding type and fill all the necessary info. Then drag it to the sheet or add via button on a sheet.
 
 Classes:
-- (C)  Cutter
-- (G)  Ghost
-- (H)  Hound
-- (Hu) Hull
-- (Le) Leech
-- (Lu) Lurk
-- (Sl) Slide
-- (Sp) Spider
-- (V)  Vampire
-- (W)  Whisper
+- (F)  Face
+- (H)  Hacker
+- (M)  Muscle
+- (P) Punk
+- (R) Rigger
+- (S) Snake
+- (T) Trigger
+- (A) Adept
+- (M)  Mage
+- (Te)  Techno
 
 Crew Types:
 - (A)  Assassins
-- (B)  Bravos
-- (C)  Cult
-- (H)  Hawkers
-- (Sh) Shadows
-- (Sm) Smugglers
+- (C)  Couriers
+- (Cu)  Cult
+- (M)  Mercs
+- (R) Radicals
+- (S) Shadows
 
 ## Screenshots
 
